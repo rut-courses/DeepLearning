@@ -1,4 +1,4 @@
-# Лабораторные работы на основе курса Andrew Ng - deepLearning.ai
+# Лабораторные работы на основе курса Andrew Ng - deeplearning.ai
 
 1. [x] [labs0](https://github.com/DeepLearning/labs-rut/tree/master/labs0) - Краткое введение в Python.
 2. [x] [labs1](https://github.com/DeepLearning/labs-rut/tree/master/labs1) - Введение в нейронные сети и глубокое обучение.
